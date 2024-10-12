@@ -9,7 +9,7 @@ import History from "sap/ui/core/routing/History";
 
 /**
  * @namespace com.logaligroup.invoices.controller 
- * 
+ * test
  */
 
 export default class Details extends Controller {
